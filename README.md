@@ -1,6 +1,6 @@
 # Calendar
 
-This project is a simple calendar application built using Python. It allows users to view the calendar of a specific month in text format on the terminal or command line interface.
+This calendar application is built using Python. It enables users to view the calendar of a specific month in a text format on the terminal or command line interface.
 
 ## Features
 
